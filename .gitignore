@@ -1,5 +1,6 @@
 # Example folder not to be commited
 example/
+example.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
